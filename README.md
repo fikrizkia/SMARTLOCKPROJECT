@@ -4,10 +4,6 @@
 ![Software](https://img.shields.io/badge/Software-MicroPython%20%7C%20Streamlit%20%7C%20Telegram%20Bot-yellow?style=for-the-badge)
 ![Integration](https://img.shields.io/badge/Integration-MQTT%20%7C%20Google%20Sheets%20%7C%20Gemini%20AI-orange?style=for-the-badge)
 
-<div align="center">
-  <img src="https://via.placeholder.com/1000x400/1a1a1a/ffffff?text=Smart+Locker+OS+Integrated+System+Banner" alt="Smart Locker OS Banner" width="100%">
-</div>
-
 <br>
 
 ## 📖 Tentang Proyek
