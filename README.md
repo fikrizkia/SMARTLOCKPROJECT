@@ -70,8 +70,6 @@ Pastikan komputer Anda sudah terinstal **Python 3.9 atau versi di atasnya**, ser
 Buka terminal/command prompt, lalu jalankan perintah berikut secara berurutan:
 ```bash
 # Clone repository ini
-git clone [https://github.com/username-anda/repository-anda.git](https://github.com/username-anda/repository-anda.git)
-cd repository-anda
-
+git clone (https://github.com/fikrizkia/ELECTRICAL/blob/main/bottelegram.py)(https://github.com/fikrizkia/ELECTRICAL/blob/main/dashboard.py)
 # Instal seluruh library Python yang dibutuhkan
 pip install paho-mqtt streamlit pandas gspread plotly python-dotenv streamlit-autorefresh pyTelegramBotAPI qrcode[pil] requests
